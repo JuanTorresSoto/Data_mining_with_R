@@ -1,0 +1,3 @@
+## Data_mining_with_R
+Business Data Mining. I will be uploading as I am learning new skills, commands, functions...
+Subjects that will be covered 
